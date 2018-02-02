@@ -1,6 +1,7 @@
 # bamazon
 
  **The app will take in orders from customers and deplete stock from the store's inventory**
+ 
  ** To run:
  1. Download or Fork this repo
  1. Open on your CLI
