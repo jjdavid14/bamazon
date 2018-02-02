@@ -88,7 +88,8 @@ function buyProduct(id, amount) {
 		if(res[0].stock_quantity <= 0) {
 			console.log("\nInsufficient quantity!");
 		} else {
-			console.log("\nYour total cost is: $" + (parseFloat(amount) * parseFloat(res[0].price)));
+			var total = (parseFloat(amount) * parseFloat(res[0].price));
+			console.log("\nYour total cost is: $" + total.toFixed(2));
 			var updateQuery = "UPDATE products SET ? WHERE ?";
 			connection.query(updateQuery,
 			 [
