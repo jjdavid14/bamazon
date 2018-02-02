@@ -29,3 +29,15 @@ Can display available products
 ![Manager Step 3](/images/manager3.jpg)
 
 Can display products at low stock
+
+![Manager Step 4](/images/manager4.jpg)
+
+Can restock inventory
+
+![Manager Step 5](/images/manager5.jpg)
+
+Can add new products to the store
+
+
+### AUTHOR: Jamie David
+[Personal Web](http://www.jamiejdavid.com)
