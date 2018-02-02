@@ -1,6 +1,11 @@
 # bamazon
 
  **The app will take in orders from customers and deplete stock from the store's inventory**
+ ** To run:
+ 1. Download or Fork this repo
+ 1. Open on your CLI
+ 1. Run the command `npm install`
+ 1. `node bamazonCustomer` or `node bamazonManager`
 
  *Two views available*
  * Customer View
